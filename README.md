@@ -1,8 +1,8 @@
 # Luis Esteban Valdivieso González
-Welcome to my personal portfolio! I’m a third-year Computer Science and Mathematics undergraduate at University of Granda (Spain).
+Welcome to my personal portfolio! I’m a third-year Computer Science and Mathematics undergraduate at University of Granada (Spain).
 
 ## Skills
-- C++, Ruby, Java, 
+- C++, Ruby, Java,...
 - GitHub & Git
 
 ## Contact
